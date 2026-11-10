@@ -75,12 +75,9 @@ HTML CODE:
 </body>
 </html>
 
-
+###
 OUTPUT:
 LINK:file:///D:/khanishk/html%20activity%201.html
-
-IMAGE:
-
-     <img width="1905" height="915" alt="Screenshot 2026-11-10 141025" src="https://github.com/user-attachments/assets/eb58cff4-d589-4813-8db8-31c7fc7a1d6b" />
+<img width="1905" height="915" alt="Screenshot 2026-11-10 141025" src="https://github.com/user-attachments/assets/12b74af7-a650-48bd-8a79-fd0aa231f23a" />
 
    
